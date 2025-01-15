@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Passionate Robotics and Artificial Intelligence Engineer, working in Reinforcement Learning (RL), 
   Large Language Models (LLMs), Perception, Computer Vision, Machine Learning (ML), Deep Learning (DL), 
   and Robot Operating System (ROS2).
-# twitter_username: keivalyap
+twitter_username: keivalyap
 github_username: keivalya
 minimal_mistakes_skin: dark
 # search: true

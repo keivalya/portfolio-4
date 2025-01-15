@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-## Robotics and AI Engineer
+<!-- ## Robotics and AI Engineer -->
 
 Passionate Robotics and Artificial Intelligence Engineer, working in Reinforcement Learning (RL), Large Language Models (LLMs), Perception, Computer Vision, Machine Learning (ML), Deep Learning (DL), and Robot Operating System (ROS2).
 
@@ -55,7 +55,11 @@ Developed a Deep Neural Network (DNN) using Keras, PyTorch, and TensorFlow for a
 
 | _May 2022 - Sep 2022_ | New Delhi, DL |
 
+
+
 | _Jun 2021 - Aug 2021_ | New Delhi, DL |
+
+
 
 ### Wordpress Developer Intern @ _Progragon Technolabs_
 
