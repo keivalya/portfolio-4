@@ -12,7 +12,6 @@ Passionate Robotics and Artificial Intelligence Engineer, working in Reinforceme
 
 (This portfolio is still under development. Most recent updates can be found on my [LinkedIn](https://www.linkedin.com/in/keivalya). Have a good one!)
 
-## Experience
 
 ## Education
 
