@@ -26,7 +26,7 @@ Created Video Content explaining topics across (but not limited to), Python, Mac
 
 | _Dec 2023 - Aug 2024_ | Vallabh Vidyanaga, GJ |
 
-Development of Autonomous Mobile Robot (AMR) using ROS2. Mentor Robotics (ROS) and Machine Learning Interns in their internship. Develop a unified software framework that connects Smart Manufacturing operations over OPC-UA Protocol, using Tkinter. Designed and developed an E-commerce website for Center of Excellence in Digital Manufacturing Laboratory, using Django.
+Development of **Autonomous Mobile Robot (AMR)** using ROS2. Mentor Robotics (ROS) and Machine Learning Interns in their internship. Develop a unified software framework that connects Smart Manufacturing operations over **OPC-UA** Protocol, using **Tkinter**. Designed and developed an **E-commerce website** for [Center of Excellence in Digital Manufacturing Laboratory](https://bvmengineering.ac.in/dm/index.html), using **Django**.
 
 ### Machine Learning Mentor @ _IIT Delhi - AIA - Foundation For Smart Manufacturing_
 
@@ -38,7 +38,7 @@ Led 44 ML/AI research projects under Prof. Dr. Sunil Jha, Director, focusing on 
 
 | _Dec 2022 - Jun 2023_ | Ahmedabad, GJ |
 
-Developed a Deep Neural Network (DNN) using Keras, PyTorch, and TensorFlow for automated land-use classification, achieving 90% accuracy in satellite imagery analysis. Engineered a Digital Twin for the Thermo-Vacuum Chamber, reducing validation time by 20% and improving simulation accuracy by 17%. *Published in [Current Science Journal]()*.
+Developed a Deep Neural Network (DNN) using Keras, PyTorch, and TensorFlow for automated land-use classification, achieving 90% accuracy in satellite imagery analysis. Engineered a Digital Twin for the Thermo-Vacuum Chamber, reducing validation time by 20% and improving simulation accuracy by 17%. *Published in [Current Science Journal](https://www.currentscience.ac.in/Volumes/125/10/1126.pdf)*.
 
 ### Research Project Intern @ _IIT Delhi - AIA - Foundation For Smart Manufacturing_
 

@@ -8,10 +8,13 @@ author_profile: true
 
 <!-- ## Robotics and AI Engineer -->
 
+<p class="small">
+<font size="3">
 Passionate Robotics and Artificial Intelligence Engineer, working in Reinforcement Learning (RL), Large Language Models (LLMs), Perception, Computer Vision, Machine Learning (ML), Deep Learning (DL), and Robot Operating System (ROS2).
 
 (This portfolio is still under development. Most recent updates can be found on my [LinkedIn](https://www.linkedin.com/in/keivalya). Have a good one!)
-
+</font>
+</p>
 
 ## Education
 
