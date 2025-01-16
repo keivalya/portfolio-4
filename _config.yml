@@ -16,7 +16,10 @@
 title: Keivalya Pandya
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  TA + RA @ Khoury, Northeastern University, Boston MA.
+  Passionate Robotics and Artificial Intelligence Engineer, 
+  working in Reinforcement Learning (RL), Large Language Models (LLMs), 
+  Perception, Computer Vision, Machine Learning (ML), Deep Learning (DL), 
+  and Robot Operating System (ROS2).
 twitter_username: keivalyap
 github_username: keivalya
 minimal_mistakes_skin: dark
@@ -58,7 +61,7 @@ plugins:
 author:
   name   : "Keivalya Pandya"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "Passionate Robotics and Artificial Intelligence Engineer, working in Reinforcement Learning (RL), Large Language Models (LLMs), Perception, Computer Vision, Machine Learning (ML), Deep Learning (DL), and Robot Operating System (ROS2)."
+  bio    : "TA + RA @ Khoury, Northeastern University, Boston MA."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
