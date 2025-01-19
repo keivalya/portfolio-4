@@ -62,6 +62,17 @@ author_profile: true
             <li> Patent granted (funded by SSIP) </li>
         </ul>
     </td>
-    <td><b style="font-size:12px"><i>WINNER</i> in the Domain of <i>Prosthetic Limb with Remote Sensors</i></b> <img src="https://lh6.googleusercontent.com/-5DWeT8Yf4nAF55Oh05PwxfZhvrhDw2dA91x3NSxnNYm5BxZB1f8nlD8lR8HZGqf6VLQUbgS5VxBE1NEo3UyqUNnAzOkdnXTY7My2z1kCUqtoQzGEcByBIlUlABvRoFl6A=w1280" alt="Hackbash21"></td>
+    <td><b style="font-size:12px"><i>WINNER</i> in the Domain of <i>Prosthetic Limb with Remote Sensors</i></b> <img src="https://lh4.googleusercontent.com/BPFtwok6SET10OfaCliAFX_UyGVtFWJ7_LtZyIGQla759eOPHkHGIIEkX9XN9l2sbjZkSaHV-DQLXD9Nypuk6A-24MGYskOq8PvFjOgeu91UYEq8xQ3rioB8wPGnk09arw=w1280" alt="Robofest 2.0"></td>
+ </tr>
+
+ <tr>
+    <td><b style="font-size:16px">Rajya Puraskar Recipient</b>
+        Bharat Scouts and Guides Organisation
+        <ul> 
+            <li> Highest State-level Award for BS&G </li>
+            <li> Active participation in Social Service </li>
+        </ul>
+    </td>
+    <td><b style="font-size:12px">Received the <b>Governor's Award</b> from the then Governor of Gujarat State, late Om Prakash Kohli</b> <img src="https://lh3.googleusercontent.com/3ynaU-Ekhpeyp493sdcTwYUek6yueub3Hg3ioq_SPOD8X-7c2-JR-YDdmkF6HUo7eQks6Nf_X7llxA_pgRr6InfHy26k8kqWnf634lDClobivpKfL1KuQAQ60KztHxLmPg=w1280" alt="Bharat Scout and Guide: Rajya Puraskar"></td>
  </tr>
 </table>
