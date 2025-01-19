@@ -19,3 +19,15 @@ author_profile: true
     <td><b style="font-size:24px">Overall and International Category</b> </br> <img src="https://lh6.googleusercontent.com/cZquHE-s3nQ421IWgCtsFX3ukLTYRYxeSEGVVV2YkUZ5cRgRhsu10wm398RjgCRUsblvYQNfgcs7NRth3zCqOccKeEELpkE8FbGkvsZ-gYiCc688zK9Yqekl711o1exMqw=w1280" alt="UrFU Best Project"></td>
  </tr>
 </table>
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Ural Federal University, Ekaterinburg, Russia</b>
+        <ul> 
+            <li> Team Leader </li>
+            <li> Generative AI (text-to-image and image-to-3D) </li>
+        </ul>
+    </td>
+    <td><b style="font-size:24px">Overall and International Category</b> <img src="https://lh6.googleusercontent.com/cZquHE-s3nQ421IWgCtsFX3ukLTYRYxeSEGVVV2YkUZ5cRgRhsu10wm398RjgCRUsblvYQNfgcs7NRth3zCqOccKeEELpkE8FbGkvsZ-gYiCc688zK9Yqekl711o1exMqw=w1280" alt="UrFU Best Project"></td>
+ </tr>
+</table>
