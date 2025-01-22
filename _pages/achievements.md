@@ -15,7 +15,7 @@ author_profile: true
             <li> Generative AI (text-to-image and image-to-3D) </li>
         </ul>
     </td>
-    <td><b style="font-size:12px">Overall and International Category</b> <img src="" alt="UrFU Best Project"></td>
+    <td><b style="font-size:12px">Overall and International Category</b> <img src="../assets/images/urfu.jpg" alt="UrFU Best Project"></td>
  </tr>
 
  <tr>
