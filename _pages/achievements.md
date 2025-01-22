@@ -27,7 +27,7 @@ author_profile: true
             <li> + Best Social Hack </li>
         </ul>
     </td>
-    <td><b style="font-size:12px">First Place Overall</b> <img src="" alt="MakeUC Hack"></td>
+    <td><b style="font-size:12px">First Place Overall</b> <img src="../assets/images/mudra.gif" alt="MakeUC Hack"></td>
  </tr>
 
  <tr>
@@ -37,7 +37,7 @@ author_profile: true
             <li> Featured on National Television <b>DoorDarshan</b> Broadcast</li>
         </ul>
     </td>
-    <td><b style="font-size:12px"><i>WINNER</i> of the Best Debut Team</b> <img src="" alt="DD Robocon 2022"></td>
+    <td><b style="font-size:12px"><i>WINNER</i> of the Best Debut Team</b> <img src="../assets/images/robocon22.gif" alt="DD Robocon 2022"></td>
  </tr>
 
  <tr>
@@ -49,7 +49,7 @@ author_profile: true
             <li> AI-based Accessibility and Social-Welfare Project </li>
         </ul>
     </td>
-    <td><b style="font-size:12px"><i>WINNER</i> in the Domain of AI/ML/Web-Development</b> <img src="" alt="Hackbash21"></td>
+    <td><b style="font-size:12px"><i>WINNER</i> in the Domain of AI/ML/Web-Development</b> <img src="../assets/images/trinetra.png" alt="Hackbash21"></td>
  </tr>
 
  <tr>
@@ -62,7 +62,7 @@ author_profile: true
             <li> Patent granted (funded by SSIP) </li>
         </ul>
     </td>
-    <td><b style="font-size:12px"><i>WINNER</i> in the Domain of <i>Prosthetic Limb with Remote Sensors</i></b> <img src="" alt="Robofest 2.0"></td>
+    <td><b style="font-size:12px"><i>WINNER</i> in the Domain of <i>Prosthetic Limb with Remote Sensors</i></b> <img src="../assets/images/saksham.jpg" alt="Robofest 2.0"></td>
  </tr>
 
  <tr>
@@ -73,6 +73,6 @@ author_profile: true
             <li> Active participation in Social Service </li>
         </ul>
     </td>
-    <td><b style="font-size:12px">Received the <b>Governor's Award</b> from the then Governor of Gujarat State, late Om Prakash Kohli</b> <img src="" alt="Bharat Scout and Guide: Rajya Puraskar"></td>
+    <td><b style="font-size:12px">Received the <b>Governor's Award</b> from the then Governor of Gujarat State, late Om Prakash Kohli</b> <img src="../assets/images/scouts.jpg" alt="Bharat Scout and Guide: Rajya Puraskar"></td>
  </tr>
 </table>
