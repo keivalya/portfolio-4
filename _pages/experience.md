@@ -7,7 +7,7 @@ title: "Experience"
 
 | _Jan 2025 - Present_ | Boston, MA |
 
-Developing _StretchAI_ under the supervision of [Prof Zhi Tan](https://zhi.fyi/). Benchmarking StretchAI LLM implementation to build human-collaborative robots, that work together _like a team_! Additionally, developing a novel robot manipulation + control framework that reasons using LLMs on edge device. Contributing to [Hello Robot Inc](https://hello-robot.com/) ROS2 open-source code repository, resolving bugs and proposing fixes via PRs.
+Developing _StretchAI_ under the supervision of [Prof Zhi Tan](https://zhi.fyi/). Benchmarking StretchAI LLM implementation to build human-collaborative robots, that work together _like a team_! Additionally, developing a novel robot manipulation + control framework that reasons using LLMs on edge device. Experimenting on Stretch3 by [Hello Robot Inc](https://hello-robot.com/).
 
 ### Graduate Teaching Assistant @ _Northeastern University_
 
